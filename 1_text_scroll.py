@@ -1,3 +1,3 @@
 from sense_hat import SenseHat
 sense = SenseHat()
-sense.show_message("Zoey and Will are stinky. Zoey and Will need a bath.")
+sense.show_message("Khoa and Travis are stinky. They will need a bath.")
